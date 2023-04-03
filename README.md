@@ -46,6 +46,4 @@ This is a 90 minute SANS Tech Tuesday workshop and is essentially a tutorial on 
 to create a configured AWS Elastic Compute Instance.
 * [Head in the Clouds Episode 4 - Use Terraform to Provision a Google Compute instance](https://headintheclouds.site/episodes/episode4) - This is an earlier episode of Head in the Clouds where I cover the details of using Terraform to deploy a virtual machine to Google Cloud Platform.
 
-Fist commit to ma
-First branchv1 create
-second local branchv2 create
+branch 3 commit
